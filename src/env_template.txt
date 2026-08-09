@@ -1,0 +1,2 @@
+GROQ_API_KEY=you_groq_api_key
+CLASS_SUBJECT_NAME=class_12/biology
